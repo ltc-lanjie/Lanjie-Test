@@ -1,4 +1,4 @@
 function abc()
 	local a = "12245"
-	print("ccccccdcccc")
+	print("aaaaaaaaaaaaaaaaaaa")
 end
